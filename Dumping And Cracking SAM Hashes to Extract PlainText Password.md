@@ -37,28 +37,34 @@ Tujuan dari dumping dan cracking ini adalah untuk membantu mempelajari cara:
    ![image](https://github.com/user-attachments/assets/d2c6bad3-c2e1-4453-9f18-9bbfe3e26c55)
 
 
-8. Selanjutnya mengisi semua username yang kosong sesuai dengan username pengguna pada step 2 kemudian save file hashes.txt 
+7. Selanjutnya mengisi semua username yang kosong sesuai dengan username pengguna pada step 2 kemudian save file hashes.txt 
+   ![image](https://github.com/user-attachments/assets/b527ac13-40d2-4d5e-aa65-0bc607a27f43)
 
-   ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.008.png)
 
-9. Selanjutnya buka oph crack kemudian pilih load PWDUMP file dan pilih file hashes.txt sebelumnya. 
+8. Selanjutnya buka oph crack kemudian pilih load PWDUMP file dan pilih file hashes.txt sebelumnya. 
+   ![image](https://github.com/user-attachments/assets/2aa17833-c244-441d-9301-84da00022001)
 
    ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.009.jpeg)
 
-10. File Hashes tersebut akan tampil dengan lm hash dan nt hash sesuai username user. 
+9. File Hashes tersebut akan tampil dengan lm hash dan nt hash sesuai username user. 
+   ![image](https://github.com/user-attachments/assets/da5837d5-6fa6-4881-bd9b-dd0337256302)
 
 ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.010.png)
 
 10. Kemudia klik table dan pada table selection pilih vista free kemudian klik install, kemudian pilih table vista free yang sudah di download sebelumnya . ( table vista free bisa di download menggunakan link :[ https://ophcrack.sourceforge.io/tables.php)](https://ophcrack.sourceforge.io/tables.php) 
+      ![image](https://github.com/user-attachments/assets/aa06a678-caed-4e3b-986b-1f515e9574a3)
+   ![image](https://github.com/user-attachments/assets/3eb490ed-8b42-4ca2-9f37-eeffd08448cb)
 
     ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.011.png)
 
     ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.012.png)
 
 11. Setelah table tambil kemudian klik icon crack disamping icon untuk mulai memecahkan kata sandi. Ophcrack akan membutuhkan waktu beberapa menit untuk memecahkan kata sandi. Tunggu hingga proses pemecahan kata sandi selesai. 
+   ![image](https://github.com/user-attachments/assets/b19ce97a-cb27-497d-a67f-ba1575e501f4)
 
     ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.013.png)
 
 12. Setelah  selesai  maka  password  akan  tampil,  Jika  hasilnya  menunjukkan  not  found  maka kemungkinan besar karena windows 10 terbaru secara default tidak lagi menyimpan password di hash  LM  karena  kurang  aman  atau  bisa  juga  karena  beberapa  akun  (seperti  "Guest"  atau "DefaultAccount") mungkin tidak memiliki password atau sedang tidak aktif, sehingga Ophcrack tidak menemukan apa-apa. 
+      ![image](https://github.com/user-attachments/assets/78dcbdf5-c596-43db-987b-41c1b9a41677)
 
     ![](Aspose.Words.c82e2afb-549f-4539-8010-5d824846e90b.014.jpeg)
